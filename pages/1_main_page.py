@@ -205,7 +205,7 @@ with st.container():
     col3.metric('Cidades cadastradas', city_reg)
    
     # avaliações feitas na plataforma
-    avaliacao_reg = np.round(df1['avaliacao_detalhada'].count(), 2)
+    avaliacao_reg = df1['votos'].sum()
     col4.metric('Avaliações feitas na plataforma', avaliacao_reg)
        
     # tipos de culinárias oferecidas
