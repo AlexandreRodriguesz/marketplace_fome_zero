@@ -89,7 +89,7 @@ e - Piores tipos de culinária.
 # 5 - O produto final do projeto
 Painel online, hospedado em uma cloud e disponível para acesso em qualquer
 dispositivo conectado à internet.
-O painel pode ser acessado através desse link: 
+O painel pode ser acessado através desse link: https://project-marketplace-fome-zero.streamlit.app/
 
 # 6 - Conclusão
 O Objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas
