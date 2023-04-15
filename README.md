@@ -13,28 +13,33 @@ restaurantes fazem o cadastro dentro da plataforma da Fome Zero, que disponibili
 informações como endereço, tipo de culinária servida, se possui reservas, se faz
 entregas e também uma nota de avaliação dos serviços e produtos do restaurante,
 dentre outras informações.
+
 #### O Desafio
 O CEO Guerra também foi recém contratado e precisa entender melhor o negócio
 para conseguir tomar as melhores decisões estratégicas e alavancar ainda mais a
 Fome Zero, e para isso, ele precisa que seja feita uma análise nos dados da
 empresa e que sejam gerados dashboards, a partir dessas análises, para responder
 às seguintes perguntas:
+
 #### Visão Geral
 1. Restaurantes cadastrados.
 2. Países registrados.
 3. Cidades registradas.
 4. Total de avaliações.
 5. Total de tipos de culinária registrados.
+
 #### Visão cidades
 1. Top 10 cidades com mais restaurantes na base de dados.
 2. Cidades com restaurantes com média de avaliação acima de 4.
 3. Cidades com restaurantes com média de avaliação abaixo de 2,5.
 4. Top 10 cidades com mais restaurantes cim tipos culinários distintos.
+
 #### Visão países
 1. Quantidade de restaurantes registrados por país.
 2. Quantidade de cidades registrados por país.
 3. Média de avaliação feita por país.
 4. Média de preço de um prato para duas pessoas por país.
+
 #### Visão restaurantes
 1. Os Melhores restaurantes dos principais tipos de culinária.
 2. Os 10 melhores restaurantes com maior avaliação.
@@ -56,7 +61,9 @@ visões do modelo de negócio da empresa:
 2. Visão cidades
 3. Visão países
 4. Visão restaurantes
-Cada visão é representada pelo seguinte conjunto de métricas.
+
+Cada visão é representada pelo seguinte conjunto de métrica
+
 ## 1. Visão geral
 a - Restaurantes cadastrados.
 b - Países registrados.
