@@ -50,19 +50,19 @@ Seu trabalho é utilizar os dados que a empresa Fome Zero possui e responder as
 perguntas feitas do CEO e criar o dashboard solicitado.
 
 # 2 - Premissas do negócio
-1. Marketplace foi o modelo de negócio assumido
-2. As 4 principais visões do negócio foram: Visão geral, Visão cidade, visão países e visão resturantes.
+1. Marketplace foi o modelo de negócio assumido.
+2. As 4 principais visões do negócio foram: visão geral, visão cidade, visão países e visão resturantes.
 3. A análise foi realizada com base no número de pedidos contido na base de dados.
 
 # 3 - Estratégia da solução
 O painel estratégico foi desenvolvido utilizando as métricas que refletem as 4 principais
 visões do modelo de negócio da empresa:
-1. Visão geral
-2. Visão cidades
-3. Visão países
-4. Visão restaurantes
+1. Visão geral.
+2. Visão cidades.
+3. Visão países.
+4. Visão restaurantes.
 
-Cada visão é representada pelo seguinte conjunto de métrica
+Cada visão é representada pelo seguinte conjunto de métricas
 
 ## 1. Visão geral
 a - Restaurantes cadastrados.
@@ -90,8 +90,8 @@ c - Melhores tipos de culinária.
 e - Piores tipos de culinária.
 
 # 4 - Top 2 insight de dados
-- A india possui maior número de restaurantes
-- Filipinas é o pais com maior número de restaurantes com maiores taxas de avaliações
+- A india possui maior número de restaurantes.
+- Filipinas é o pais com maior número de restaurantes com maiores taxas de avaliações.
 
 # 5 - O produto final do projeto
 Painel online, hospedado em uma cloud e disponível para acesso em qualquer
